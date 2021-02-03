@@ -10,7 +10,7 @@
     - NextJs    (Apollo GraphQL Client)
     - MongoDB   (Primary Database)
     - Redis     (Jobs, JWT Blacklisting)
-    - Varnish   (Http Cashing)
+    - Varnish   (Http Caching)
     - NGINX     (Reverse Proxy, Layer 7 Load balancer (round robin))
     - Docker    (Virtualization)
 
