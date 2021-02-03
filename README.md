@@ -15,15 +15,12 @@
     - Docker    (Virtualization)
 
   Deployed on Single instance DigitalOcean droplet with 1GB of RAM and 25GB storage,
-  Also, I had increase the SWAP up to 2GB.
+  Also, I had to increase the SWAP up to 2GB.
 
 ```
 
 ## Architecture
 ![alt text](images/structure.png "Architecture")
-
-
-
 
 ## Welcome Page
 ![alt text](images/welcome_page.png "Welcome Auth")
